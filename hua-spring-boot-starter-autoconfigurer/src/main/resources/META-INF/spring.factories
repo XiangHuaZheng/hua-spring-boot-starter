@@ -1,0 +1,3 @@
+# Auto Configure 将自己的自动配置类加载进来
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hua.starter.HelloServiceAutoConfiguration
